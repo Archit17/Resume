@@ -1,6 +1,6 @@
 
         .box1 {
-            background-color: red;
+            background-color: #A0A0A0;
             height: 100px;
             width: 25%;
             float: left;
@@ -28,7 +28,7 @@
         }
         
         .box4 {
-            background-color: #E0E6F8;
+            background-color: #74D7CB;
             height: 100px;
             width:25%;
             float: left;
